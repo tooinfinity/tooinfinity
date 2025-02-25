@@ -57,5 +57,18 @@
 
 ⭐ **If you like my work, consider giving a star!** ⭐  
 
+---
+
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tooinfinity&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=tooinfinity&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooinfinity&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 
 
