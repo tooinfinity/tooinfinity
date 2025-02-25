@@ -35,7 +35,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,tailwind,js,git,github,vscode,php,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,tailwind,js,git,github,vscode,phpstorm,linux" />
 </p>
 
 ---
